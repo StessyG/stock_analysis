@@ -1,7 +1,7 @@
 # stock_analysis
 #Overview of Project
-![VBA_Challenge_2018] [path/to/VBA_Challenge_2018.png]
-![VBA_Challenge_2017] [path/to/VBA_Challenge_2017.png]
+![VBA_Challenge_2018.png] [path/to/VBA_Challenge_2018.png] 
+![VBA_Challenge_2017.png] [path/to/VBA_Challenge_2017.png]
 
 	The purpose of this project is to refactor the original code by looping through all the data one time in order to collect the same information.
 
