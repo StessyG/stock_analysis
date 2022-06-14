@@ -1,9 +1,7 @@
 # stock_analysis
 #Overview of Project
-![VBA_Challenge_2018.png] [path/to/VBA_Challenge_2018.png] 
-https://github.com/StessyG/stock_analysis/blob/2ee38c5eb0106d99b01691cd933fd6514a86c9a3/VBA_Challenge_2018.png
-![VBA_Challenge_2017.png] [path/to/VBA_Challenge_2017.png]
-https://github.com/StessyG/stock_analysis/blob/2ee38c5eb0106d99b01691cd933fd6514a86c9a3/VBA_Challenge_2017.png
+![VBA_Challenge_2018.png](https://github.com/StessyG/stock_analysis/blob/2ee38c5eb0106d99b01691cd933fd6514a86c9a3/VBA_Challenge_2018.png)
+![VBA_Challenge_2017.png](https://github.com/StessyG/stock_analysis/blob/2ee38c5eb0106d99b01691cd933fd6514a86c9a3/VBA_Challenge_2017.png)
 
 
 	The purpose of this project is to refactor the original code by looping through all the data one time in order to collect the same information.
